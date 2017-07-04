@@ -1,5 +1,6 @@
 def reverse(text):
     length= len(text)
+    print (hello)
     print (length)
     y=0
     rv=""
